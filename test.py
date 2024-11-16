@@ -1,3 +1,4 @@
+import os
 
 # Access the secret as an environment variable
 my_secret = os.environ.get("MY_SECRET")
